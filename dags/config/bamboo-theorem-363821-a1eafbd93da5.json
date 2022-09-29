@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bamboo-theorem-363821",
+  "private_key_id": "a1eafbd93da589a3952f6db3e224b5fd966446cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnedr2vHLPCCF3\nAivB75MFCnNPZI1IlFE+G2UqiXMpaBGGHdS6gRnSBaTEdQJuVwqeOeSRacIaUju/\ngqh9+UR9scVrFxr3cKnYlAXhvYQ6IVpKY4DoADCAxYAcwicTNC7lEjIBjwXUeM0T\npZU9ZJm42IoALTAbU8XuAmK52uciShpJvWZrO2WAHN1dIgcR/6lxYKGoZBbQ+SKl\nXdTVza1t3EU40/NCy2jxnPFom7sW2e0MWyWJciKHgDAu9ed+C4ofY9ntHxm3ZtXD\neCWcSyHciOB1S2clmh0QEd9X39YncASXg8FOZ6YBUli2aCzp5KwsYevu18N5hC1B\nTXTptV4XAgMBAAECggEAKEQfBkXG4MoWqbNm6+j7EzIxCTymz3WBlwolJ7YGb0Ur\nOXDArdrOZ3Wd6PItFHRvBB3tO50O4x80aFY0xp0A/6uXSKk0fZuj6oOkamMTgJp2\nR/5mhuFMyBk0NTXlCTP5tm/KgB9wCmbE/91G5YzjfNLrUyGKOHfK1e/S5tafzdlZ\nXxUu9vIstJX4UHETuvGpXx/U6TsXG3TgD2yea2JfzjXpN5Omkc2nAgYvB2Z38Dnj\nKN8uJt8H6h4noLqef3KffYy7wDt2KVrg8tyb0crR+Q/laGqvsWST0sf6OV7RdHDX\nKAeftMTYr6EeG4BX7ZWV8DHDYEwiF48UuKb84f7TIQKBgQDfeVZvUAnFiJ/dgdrs\nPQNlcoOCacxto7PSwXRHwqQt+XdKeaDcYoX7g7fPZEAIJOWsxrjfoP+7ikoClzNx\nI/NmpbejBc/bXLVLdvwPKJ/XdUu56nI9vQG0K/tET/NyWL6/r3CSc/KWtxvv/YJh\nEHHR5zCekUnNuRJZf1sezf/n8QKBgQC/2gcLL2LkAxPV+2QmtT/ILr1XxBNf1IPa\niQAvcd4kcnc3toak3YFyLbef9/Qvez3wpo5zoCEwM+F86UxLyMwzyMIcNfC61v8p\niZA9JSNfyTFQtr7XGeyYy/s6z+M+7E4z+sMju/QBIZlOqy2VbInRKNB6g6DuCh7u\nhTRrYCDuhwKBgC23Zd5JsmYNqB6pdP7FEI/NWGfyetanGZ9w4ffYMrwQ/71lmmnb\nYettK8oqiQrheXbaBHIDPq3AAZn8EpL/tsh1+FZKVxZaJeB1S+VR+zkZjs9OzeYh\nZ1rTcIiuDnCDBSqzmkTroWIBvZ5f7y8qLQ6yy/h0YnPKe52Bd0ObAtIRAoGAO+lo\nXbPUnAPiA+bXpcbgPjFqa6gNrNV+v5Yc+rQCfTtJw5o6fe22aOOh/lC+br174FUD\nE1SkSJtLBWkNrHTuYBWHmKu3m4Fceao94vpgC5+WyO/otN+hpS2+LOWSv6mn2k+q\n9NPTJS9K4uhN+eXFPA4U3M2SSgPbGP18GzQP1K0CgYBUf+Phft/jiYvBdagl99GJ\nKDBAOjPrarQGZDrSlX9yL8MV8hiNRx+LgMhBkWNmu0b+7Wnu3Cuft0PHUoxoXNhB\nlp+qku7u0Ul3OuBwhhpp9dbjnxST0Rfk+y8HqMc/IFxqxKCSZxAgilGd4oVILav9\nOxyP0cinad4FZoiJGZdCnQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "denue-bq@bamboo-theorem-363821.iam.gserviceaccount.com",
+  "client_id": "109107572160023461973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/denue-bq%40bamboo-theorem-363821.iam.gserviceaccount.com"
+}

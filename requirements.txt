@@ -1,0 +1,2 @@
+apache-airflow[redis,celery,google,pandas]==2.4.0
+protobuf==3.20.1
