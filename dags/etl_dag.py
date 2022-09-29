@@ -16,10 +16,10 @@ default_args = {
 dag_init = DAG(
     "ingest_denue_data",
     description="Extract, clean and load DENUE data from INEGI API (monthly).",
-    start_date=datetime(2022, 9, 27),
+    start_date=datetime(2022, 8, 1),
     default_args=default_args,
     tags=["Ingest", "DENUE", "INEGI"],
-    schedule_interval="0 0 1 * *" # Cron to run once a month
+    schedule_interval="0 0 15 * *" # Cron to run once a month
     )
 
 
