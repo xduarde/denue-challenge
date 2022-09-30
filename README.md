@@ -37,6 +37,8 @@ docker compose up --build
     - Insert data to staging table.
     - Execute queries to populate model.
 
+![alt text](/img/denue-diagram.png)
+
 In order to monitor the ingest_denue_data, access the Airflow Web Server in:
 
 > **[http://localhost:8080/](http://localhost:8080/)** 
